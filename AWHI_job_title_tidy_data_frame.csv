@@ -1,33 +1,22 @@
-﻿researcher,job_title,year,rank,,,,,,
-Lutterlough,Elevator Operator,1943,01,,,,,,
-Lutterlough,Insect Preparator,1957,05,,,,,,
-Lutterlough,Research Assistant,1959,06,,,,,,
-Lutterlough,Entomologist,,13,,,,,,
-Lutterlough,Research Assistant,1983,06,,,,,,
-Minor-Huff,Biological Research Technician,1971,11,,,,,,
-Minor-Huff,Biological Research Technician,1973,11,,,,,,
-Payne-Gaposchikin,PhD Student,1923,10,,,,,,
-Payne-Gaposchikin,Assistant,1930,08,,,,,,
-Payne-Gaposchikin,Adjunct Professor,1938,12,,,,,,
-Payne-Gaposchikin,Astronomer,1938,14,,,,,,
-Payne-Gaposchikin,Full Professor,1956,15,,,,,,
-Payne-Gaposchikin,Chair of Department of Astronomy,1956,16,,,,,,
-Payne-Gaposchikin,Chair of Department of Astronomy,1979,16,,,,,,
-Rathbun,Volunteer,1881,00,,,,,,
-Rathbun,Copyist,1886,02,,,,,,
-Rathbun,Clerk,1886,03,,,,,,
-Rathbun,Aid,1894,04,,,,,,
-Rathbun,Second Assistant,1898,07,,,,,,
-Rathbun,Full Assistant Curator,1907,09,,,,,,
-Rathbun,Full Assistant Curator,1915,09,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+﻿researcher,job_title,year,rank
+Lutterlough,Elevator Operator,1943,1
+Lutterlough,Insect Preparator,1957,5
+Lutterlough,Research Assistant,1959,6
+Lutterlough,Entomologist,,13
+Lutterlough,Research Assistant,1983,6
+Minor-Huff,Biological Research Technician,1971,11
+Minor-Huff,Biological Research Technician,1973,11
+Payne-Gaposchikin,PhD Student,1923,10
+Payne-Gaposchikin,Assistant,1930,8
+Payne-Gaposchikin,Adjunct Professor,1938,12
+Payne-Gaposchikin,Astronomer,1938,14
+Payne-Gaposchikin,Full Professor,1956,15
+Payne-Gaposchikin,Chair of Department of Astronomy,1956,16
+Payne-Gaposchikin,Chair of Department of Astronomy,1979,16
+Rathbun,Volunteer,1881,0
+Rathbun,Copyist,1886,2
+Rathbun,Clerk,1886,3
+Rathbun,Aid,1894,4
+Rathbun,Second Assistant,1898,7
+Rathbun,Full Assistant Curator,1907,9
+Rathbun,Full Assistant Curator,1915,9
