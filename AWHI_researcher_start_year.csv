@@ -1,0 +1,237 @@
+﻿SI_UNIT,DEPARTMENT,LAST_NAME,FIRST_NAME,SI_START_YEAR,SI_END_YEAR,GENDER,FREQUENCY,SI_UNIT_NO,GROUP_YEAR,TOTAL_COUNT
+Castle,Botany,Walcott, Mary Vaux,1914,,woman,1,0,1910,4
+MCI,,van der Reyden, Dianne L. ,1981,2002,woman,3,1,1980,13
+MCI,Conservation,Grissom, Carol A.,1982,present,woman,3,1,1980,13
+MCI,Conservation,Beaubien, Harriet (Rae) F. ,1989,2014,woman,3,1,1980,13
+MCI,Deputy Director/Conservation,DePriest, Paula T.,1990,present,woman,1,1,1990,6
+MCI,Conservation,Johnson, Jessica S.,2000,present,woman,1,1,2000,8
+MCI,Conservation,Douglas, Janet,,,woman,,1,,
+MCI,Conservation,Kaczkowski, Rebecca,,,woman,,1,,
+MCI,Conservation,Kavich, Gwénaëlle ,,,woman,,1,,
+MCI,Conservation,Little, Nicole,,,woman,,1,,
+MCI,Conservation,Rogala, Dawn V.,,,woman,,1,,
+MCI,Conservation,Solazzo, Caroline,,,woman,,1,,
+MCI,Conservation,Tsang, Jia-sun ,,,woman,,1,,
+MCI,Fossils,France, Christine A. M.,,,woman,,1,,
+MCI,Photographs,Brogdon-Grantham, Shannon A,,,woman,,1,,
+MCI,Stone,Charola, A. Elena,,,woman,,1,,
+MCI,Textiles,Ballard, Mary,,,woman,,1,,
+NMNH,Anthropology-Bureau Amer Ethnology,Stevenson, Matilda,1889,,woman,1,2,1880,1
+NMNH,Invertebrate Zoology,Richardson Searle, Harriet,1896,1914,woman,1,2,1890,2
+NMNH,Botany,Chase, Mary Agnes,1903,1963,woman,3,2,1900,7
+NMNH,Anthropology-Bureau Amer Ethnology,Densmore, Francis,1907,1957,woman,3,2,1900,7
+NMNH,Invertebrate Zoology,Rathbun, Mary Jane,1907,1915,woman,3,2,1900,7
+NMNH,Invertebrate Zoology,Boone, Pearl Lee,1913,1922,woman,2,2,1910,4
+NMNH,Vertebrate Zoology-mammals,Shantz, Viola Shelly,1918,1961,woman,2,2,1910,4
+NMNH,Mineral Sciences/USGS,Gardner, Julia Anna,1920,1952,woman,3,2,1920,6
+NMNH,Vertebrate Zoology-reptiles & amphibians,Cochran, Doris Mable,1927,1968,woman,3,2,1920,6
+NMNH,Entomology,Blake, Doris Holmes,1928,1933,woman,3,2,1920,6
+NMNH,Anthropology,St. Hoyme, Lucile,1942,1982,woman,6,2,1940,6
+NMNH,Entomology,Lutterlough, Sophie,1943,1983,woman,6,2,1940,6
+NMNH,Entomology,Parfin, Sophy,1944,1960,woman,6,2,1940,6
+NMNH,Invertebrate Zoology,Wilson, Mildred Stratton,1944,1950,woman,6,2,1940,6
+NMNH,Botany,Rudd, Velva E.,1948,1973,woman,6,2,1940,6
+NMNH,Entomology,Glance, Grace,1948,1957,woman,6,2,1940,6
+NMNH,Anthropology,Meggers, Betty,1954,2012,woman,1,2,1950,1
+NMNH,Invertebrate Zoology,Pettibone, Marian,1963,1978,woman,2,2,1960,4
+NMNH,Invertebrate Zoology-SMS,Rice, Mary E.,1966,2002,woman,2,2,1960,4
+NMNH,Botany,Faust, Maria,1970,2010,woman,5,2,1970,9
+NMNH,Anthropology,Rose, Carolyn L. ,1971,2002,woman,5,2,1970,9
+NMNH,Botany,Simpson, Beryl,1972,1977,woman,5,2,1970,9
+NMNH,Botany,Nowicke, Joan W.,1972,1999,woman,5,2,1970,9
+NMNH,Entomology,Collins, Margaret James S.,1975,1996,woman,5,2,1970,9
+NMNH,Botany,Funk, Vicki,1981,present,woman,7,2,1980,13
+NMNH,Anthropology,Arnoldi, Mary Jo,1984,present,woman,7,2,1980,13
+NMNH,Anthropology,Greene, Candace,1985,,woman,7,2,1980,13
+NMNH,Anthropology,Archambault, JoAllyn,1986,present,woman,7,2,1980,13
+NMNH,Anthropology,Piperno, Dolores,1988,present,woman,7,2,1980,13
+NMNH,Molecular Systematics Laboratory,Blake, Judith A.,1989,1993,woman,7,2,1980,13
+NMNH,Vertebrate Zoology-birds,Dove, Carla,1989,,woman,7,2,1980,13
+NMNH,Botany,Zimmer, Elizabeth,1990,present,woman,4,2,1990,6
+NMNH,Vertebrate Zoology-fish,Parenti, Lynne,1990,present,woman,4,2,1990,6
+NMNH,Anthropology,Bruwelheide, Kari,1992,present,woman,4,2,1990,6
+NMNH,Anthropology,Zeder, Melinda,1992,2018,woman,4,2,1990,6
+NMNH,Invertebrate Zoology,Strong, Ellen E.,2004,present,woman,5,2,2000,8
+NMNH,Botany,Wen, Jun,2005,present,woman,5,2,2000,8
+NMNH,Mineral Sciences,Cottrell, Elizabeth ,2006,,woman,5,2,2000,8
+NMNH,Mineral Sciences/USGS,Sennert, Sally Kuhn,2006,,woman,5,2,2000,8
+NMNH,Mineral Sciences,Corrigan, Catherine (Cari),2008,present,woman,5,2,2000,8
+NMNH,Anthropology,Báez, Gabriela Pérez ,2010,2018,woman,9,2,2010,9
+NMNH,Paleobiology,Lyons, S. Kate,2010,2016,woman,9,2,2010,9
+NMNH,Invertebrate Zoology,Osborn, Karen J.,2011,present,woman,9,2,2010,9
+NMNH,Invertebrate Zoology-SMS,Sneed, Jennifer,2011,,woman,9,2,2010,9
+NMNH,Botany,Egan, Ashley,2013,2018,woman,9,2,2010,9
+NMNH,Invertebrate Zoology,Phillips, Anna J.,2013,present,woman,9,2,2010,9
+NMNH,Anthropology,Sholts, Sabrina,2014,present,woman,9,2,2010,9
+NMNH,Invertebrate Zoology-SMS,Lunt, Jessica,2014,,woman,9,2,2010,9
+NMNH,Vertebrate Zoology-reptiles & amphibians,Bell, Rayna C.,2015,,woman,9,2,2010,9
+NMNH,Anthropology,Isaac, Gwyneira,,,woman,,2,,
+NMNH,Anthropology,Kaeppler, Adrienne,,present,woman,,2,,
+NMNH,Anthropology,Scherer, Joanna,,,woman,,2,,
+NMNH,Anthropology,Stirling, Marion,,,woman,,2,,
+NMNH,Anthropology,Walsh, Jane,,,woman,,2,,
+NMNH,Anthropology,Watanabe, Barbara,,,woman,,2,,
+NMNH,Anthropology-Bureau Amer Ethnology,Fletcher, Alice Cunningham,,,woman,,2,,
+NMNH,Entomology,Chamorro, Lourdes,,,woman,,2,,
+NMNH,Entomology,Linton, Yvonne-Marie,,,woman,,2,,
+NMNH,Entomology,Scheffer, Sonja,,,woman,,2,,
+NMNH,Entomology,Solis, M. Alma,,,woman,,2,,
+NMNH,Entomology,Vandenberg, Natalia,,,woman,,2,,
+NMNH,Entomology,Wood, Hannah,,,woman,,2,,
+NMNH,Invertebrate Zoology,Knowlton, Nancy,,,woman,,2,,
+NMNH,Invertebrate Zoology-SMS,Rice, Mary E.,,,woman,,2,,
+NMNH,Invertebrate Zoology-SMS,Paul, Valerie,,,woman,,2,,
+NMNH,Mineral Sciences,Santelli, Cara,,,woman,,2,,
+NMNH,Mineral Sciences,Sorensen, Sorena S.,,,woman,,2,,
+NMNH,Paleobiology,Behrensmeyer, Ann Kay,,,woman,,2,,
+NMNH,Paleobiology,Cooper, Josephine,,,woman,,2,,
+NMNH,Vertebrate Zoology-birds,Foster, Mercedes S.,,,woman,,2,,
+NMNH,Vertebrate Zoology-birds,James, Helen,,,woman,,2,,
+NMNH,Vertebrate Zoology-birds,Laybourne, Roxie Collie,,,woman,,2,,
+NMNH,Vertebrate Zoology-fish,Baldwin, Carole,,,woman,,2,,
+NMNH,Vertebrate Zoology-mammals,Minor-Huff, Sheila,,,woman,,2,,
+NMNH,Vertebrate Zoology-mammals,Emmons, Louise H.,,,woman,,2,,
+NMNH,Vertebrate Zoology-marine,Earle, Sylvia,,,woman,,2,,
+NZP,Research,Kleiman, Devra,1972,2010,woman,1,3,1970,9
+NZP,Veterinary Medicine,Howard, JoGayle,1980,2011,woman,1,3,1980,13
+NZP,Editor,Mann, Lucile Quarry,,,woman,,3,,
+NZP,,Stevens, Lisa,,2011,woman,,3,,
+SAO,Harvard,Cannon, Annie Jump,1896,1940,woman,1,4,1890,2
+SAO,SAO Computer,Graves, Florence A. ,1901,,woman,4,4,1900,7
+SAO,SAO Computer,Barber, C.B. (C.V. seen online),1901,1907,woman,4,4,1900,7
+SAO,SAO Computer,Scott, M.L.,1901,1913,woman,4,4,1900,7
+SAO,SAO Computer,Frisby, Florence Elizabeth,1907,1913,woman,4,4,1900,7
+SAO,SAO Computer,Bond, A. M. ,1913,1931,woman,1,4,1910,4
+SAO,SAO Computer,Denoyer, M. (Mrs. M.D. Johnson),1922,1931,woman,3,4,1920,6
+SAO,SAO Computer,Marsden, M (Margareth?) A.,1922,1931,woman,3,4,1920,6
+SAO,SAO Computer,Rhoderick, M.C.,1922,1931,woman,3,4,1920,6
+SAO,Harvard/SAO,Payne-Gaposchkin, Cecilia,1960,1979,woman,2,4,1960,4
+SAO,,Marvin, Ursula,1961,,woman,2,4,1960,4
+SAO,,Geller, Margaret,1983,present,woman,1,4,1980,13
+SAO,Radiation Biology Lab,Chase, Florence Meier,,,woman,,4,,
+SERC,Research,Eberhard, Mary Jane,1973,,woman,1,5,1970,9
+SERC,Research,McCormick, Melissa,1999,,woman,1,5,1990,6
+SERC,Research,Gilmour, Cynthia,2004,,woman,2,5,2000,8
+SERC,Research,Havard, Stacey,2007,,woman,2,5,2000,8
+SERC,Research,Ashton, Gail,,,woman,,5,,
+SERC,Research,Breitburg, Denise,,,woman,,5,,
+SERC,Research,Feller, Ilka,,,woman,,5,,
+SERC,Research,La Pierre, Kimberly,,,woman,,5,,
+SERC,Research,Lohan, Katrina,,,woman,,5,,
+SERC,Research,Simkanin, Christina,,,woman,,5,,
+SERC,Research,Zabin, Chela,,,woman,,5,,
+STRI,Anthropology,Linares, Olga,1973,2008,woman,2,6,1970,9
+STRI,Research,Aiello, Annette,1976,2011,woman,2,6,1970,9
+STRI,Herbarium,Correa, Mireya,1982,present,woman,1,6,1980,13
+STRI,Herbarium,Salazar Allen, Noris,,,woman,,6,,
+STRI,See under NMNH,Knowlton, Nancy,,,woman,,6,,
+STRI,See under NMNH,Piperno, Dolores,,,woman,,6,,
+STRI,See under SERC,Eberhard, Mary Jane,,,woman,,6,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
