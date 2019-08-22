@@ -1,22 +1,22 @@
-﻿catalog_no,scientific_name,collected_by,collected_date,,,field_no,country,state,country,frequency
-USNM:MAMM:589339,Peromyscus leucopus noveboracensis,S. Jones,1972-07-21,,,SMJ 20,United States,Virginia,Giles County,1
-USNM:MAMM:589278,Tamias striatus fisheri,S. Jones,1972-07-21,,,SMJ 21,United States,Virginia,Giles County,2
-USNM:MAMM:589291,Tamiasciurus hudsonicus abieticola,S. Jones,1972-07-23,,,SMJ 22,United States,Virginia,Giles County,3
-USNM:MAMM:589296,Neotoma magister,S. Jones,1972-07-23,,,SMJ 37,United States,Virginia,Giles County,4
-USNM:MAMM:589264,Glaucomys volans volans,S. Jones,1972-07-24,,,SMJ 23,United States,Virginia,Giles County,5
-USNM:MAMM:589283,Tamias striatus fisheri,S. Jones,1972-07-24,,,SMJ 35,United States,Virginia,Giles County,6
-USNM:MAMM:589284,Tamias striatus fisheri,S. Jones,1972-07-24,,,SMJ 36,United States,Virginia,Giles County,7
-USNM:MAMM:589348,Peromyscus leucopus noveboracensis,S. Jones,1972-07-25,,,SMJ 24,United States,Virginia,Giles County,8
-USNM:MAMM:589290,Tamiasciurus hudsonicus abieticola,S. Jones,1972-07-25,,,SMJ 28,United States,Virginia,Giles County,9
-USNM:MAMM:589223,Sorex cinereus cinereus,S. Jones,1972-07-26,,,SMJ 25,United States,Virginia,Giles County,10
-USNM:MAMM:589413,Myodes gapperi gapperi,S. Jones,1972-07-27,,,SMJ 26,United States,Virginia,Giles County,11
-USNM:MAMM:589415,Microtus pennsylvanicus pennsylvanicus,S. Jones,1972-07-31,,,SMJ 27,United States,Virginia,Giles County,12
-USNM:MAMM:589340,Peromyscus leucopus noveboracensis,S. Jones,1972-08-01,,,SMJ 29,United States,Virginia,Giles County,13
-USNM:MAMM:589373,Peromyscus maniculatus nubiterrae,S. Jones,1972-08-01,,,SMJ 30,United States,Virginia,Giles County,14
-USNM:MAMM:589403,Myodes gapperi gapperi,S. Jones,1972-08-08,,,SMJ 31,United States,Virginia,Giles County,15
-USNM:MAMM:589404,Myodes gapperi gapperi,S. Jones,1972-08-08,,,SMJ 32,United States,Virginia,Giles County,16
-USNM:MAMM:589405,Myodes gapperi gapperi,S. Jones,1972-08-09,,,SMJ 33,United States,Virginia,Giles County,17
-USNM:MAMM:589214,Blarina brevicauda talpoides,S. Jones,1972-08-15,,,SMJ 38,United States,Virginia,Giles County,18
-USNM:MAMM:589250,Spilogale putorius putorius,S. Jones,1972-08-16,,,SMJ 39,United States,Virginia,Giles County,19
-USNM:MAMM:589234,Eptesicus fuscus fuscus,S. Jones,1972-08-18,,,SMJ 40,United States,Virginia,Giles County,20
-USNM:MAMM:589406,Myodes gapperi gapperi,S. Jones,,,,SMJ 34,United States,Virginia,Giles County,21
+﻿catalog_no,scientific_name,collected_by,collected_date,field_no,country,state,country,locality,location_area,lat,long,frequency
+USNM:MAMM:589339,Peromyscus leucopus noveboracensis,S. Jones,7/21/72,SMJ 20,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.566180,1
+USNM:MAMM:589278,Tamias striatus fisheri,S. Jones,7/21/72,SMJ 21,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.566180,2
+USNM:MAMM:589291,Tamiasciurus hudsonicus abieticola,S. Jones,7/23/72,SMJ 22,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,3
+USNM:MAMM:589296,Neotoma magister,S. Jones,7/23/72,SMJ 37,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,4
+USNM:MAMM:589264,Glaucomys volans volans,S. Jones,7/24/72,SMJ 23,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,5
+USNM:MAMM:589283,Tamias striatus fisheri,S. Jones,7/24/72,SMJ 35,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,6
+USNM:MAMM:589284,Tamias striatus fisheri,S. Jones,7/24/72,SMJ 36,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,7
+USNM:MAMM:589348,Peromyscus leucopus noveboracensis,S. Jones,7/25/72,SMJ 24,United States,Virginia,Giles County,Mountain Lake Biological Station, Big Mountain Forest North,37.375332,-80.523187,8
+USNM:MAMM:589290,Tamiasciurus hudsonicus abieticola,S. Jones,7/25/72,SMJ 28,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,9
+USNM:MAMM:589223,Sorex cinereus cinereus,S. Jones,7/26/72,SMJ 25,United States,Virginia,Giles County,Mountain Lake Biological Station, Big Mountain Forest North,37.375332,-80.523187,10
+USNM:MAMM:589413,Myodes gapperi gapperi,S. Jones,7/27/72,SMJ 26,United States,Virginia,Giles County,Mountain Lake Biological Station, Big Mountain Forest North,37.375332,-80.523187,11
+USNM:MAMM:589415,Microtus pennsylvanicus pennsylvanicus,S. Jones,7/31/72,SMJ 27,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.566180,12
+USNM:MAMM:589340,Peromyscus leucopus noveboracensis,S. Jones,8/1/72,SMJ 29,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.566180,13
+USNM:MAMM:589373,Peromyscus maniculatus nubiterrae,S. Jones,8/1/72,SMJ 30,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.566180,14
+USNM:MAMM:589403,Myodes gapperi gapperi,S. Jones,8/8/72,SMJ 31,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.326680,-80.530659,15
+USNM:MAMM:589404,Myodes gapperi gapperi,S. Jones,8/8/72,SMJ 32,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.326680,-80.530659,16
+USNM:MAMM:589405,Myodes gapperi gapperi,S. Jones,8/9/72,SMJ 33,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.326680,-80.530659,17
+USNM:MAMM:589214,Blarina brevicauda talpoides,S. Jones,8/15/72,SMJ 38,United States,Virginia,Giles County,Mountain Lake Biological Station, Butt Mountain,37.372124,-80.563569,18
+USNM:MAMM:589250,Spilogale putorius putorius,S. Jones,8/16/72,SMJ 39,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.326680,-80.530659,19
+USNM:MAMM:589234,Eptesicus fuscus fuscus,S. Jones,8/18/72,SMJ 40,United States,Virginia,Giles County,Newport Post Office, Tawny's Cave,37.290458,-80.498188,20
+USNM:MAMM:589406,Myodes gapperi gapperi,S. Jones,,SMJ 34,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.326680,-80.530659,21
