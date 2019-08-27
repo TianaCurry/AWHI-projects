@@ -103,8 +103,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-#Tiana's mapbox token 
-.mapbox_token
-
 #Mac DS_store
 .DS_Store
