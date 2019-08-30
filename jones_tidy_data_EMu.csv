@@ -1,22 +1,22 @@
 ﻿catalog_no,scientific_name,common_name,name_sort,collected_by,month_collected,collected_date,field_no,country,state,country,locality,location_area,lat,long,frequency
-USNM:MAMM:589234,Eptesicus fuscus fuscus,Big Brown bat,Big Brown bat,S. Jones,August,8/18/72,SMJ 40,United States,Virginia,Giles County,Newport Post Office, Tawny's Cave,37.290458,-80.498188,1
-USNM:MAMM:589278,Tamias striatus fisheri,chipmunk,Chipmunk,S. Jones,July,7/21/72,SMJ 21,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.56618,2
-USNM:MAMM:589283,Tamias striatus fisheri,chipmunk,Chipmunk,S. Jones,July,7/24/72,SMJ 35,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,4
-USNM:MAMM:589284,Tamias striatus fisheri,chipmunk,Chipmunk,S. Jones,July,7/24/72,SMJ 36,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,5
-USNM:MAMM:589339,Peromyscus leucopus noveboracensis,white-footed mouse,Mouse,S. Jones,July,7/21/72,SMJ 20,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.56618,1
-USNM:MAMM:589348,Peromyscus leucopus noveboracensis,white-footed mouse,Mouse,S. Jones,July,7/25/72,SMJ 24,United States,Virginia,Giles County,Mountain Lake Biological Station, Big Mountain Forest North,37.375332,-80.523187,1
-USNM:MAMM:589340,Peromyscus leucopus noveboracensis,white-footed mouse,Mouse,S. Jones,August,8/1/72,SMJ 29,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.56618,4
-USNM:MAMM:589373,Peromyscus maniculatus nubiterrae,deer mouse,Mouse,S. Jones,August,8/1/72,SMJ 30,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.56618,5
+USNM:MAMM:589234,Eptesicus fuscus fuscus,Big brown bat,Big brown bat,S. Jones,August,8/18/72,SMJ 40,United States,Virginia,Giles County,Newport Post Office, Tawny's Cave,37.290458,-80.498188,1
+USNM:MAMM:589278,Tamias striatus fisheri,Eastern chipmunk,Eastern chipmunk,S. Jones,July,7/21/72,SMJ 21,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.56618,2
+USNM:MAMM:589283,Tamias striatus fisheri,Eastern chipmunk,Eastern chipmunk,S. Jones,July,7/24/72,SMJ 35,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,4
+USNM:MAMM:589284,Tamias striatus fisheri,Eastern chipmunk,Eastern chipmunk,S. Jones,July,7/24/72,SMJ 36,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,5
+USNM:MAMM:589339,Peromyscus leucopus noveboracensis,White-footed mouse,Mice,S. Jones,July,7/21/72,SMJ 20,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.56618,1
+USNM:MAMM:589348,Peromyscus leucopus noveboracensis,White-footed mouse,Mice,S. Jones,July,7/25/72,SMJ 24,United States,Virginia,Giles County,Mountain Lake Biological Station, Big Mountain Forest North,37.375332,-80.523187,1
+USNM:MAMM:589340,Peromyscus leucopus noveboracensis,White-footed mouse,Mice,S. Jones,August,8/1/72,SMJ 29,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.56618,4
+USNM:MAMM:589373,Peromyscus maniculatus nubiterrae,Deer mouse,Mice,S. Jones,August,8/1/72,SMJ 30,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.56618,5
 USNM:MAMM:589296,Neotoma magister,Allegheny woodrat,Allegheny woodrat,S. Jones,July,7/23/72,SMJ 37,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,2
-USNM:MAMM:589214,Blarina brevicauda talpoides,Short-tail Shrew,Shrew,S. Jones,August,8/15/72,SMJ 38,United States,Virginia,Giles County,Mountain Lake Biological Station, Butt Mountain,37.372124,-80.563569,1
-USNM:MAMM:589223,Sorex cinereus cinereus,common shrew,Shrew,S. Jones,July,7/26/72,SMJ 25,United States,Virginia,Giles County,Mountain Lake Biological Station, Big Mountain Forest North,37.375332,-80.523187,2
-USNM:MAMM:589250,Spilogale putorius putorius,spotted skunk,Skunk,S. Jones,August,8/16/72,SMJ 39,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.32668,-80.530659,4
-USNM:MAMM:589264,Glaucomys volans volans,flying squirrel,Squirrel,S. Jones,July,7/24/72,SMJ 23,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,3
-USNM:MAMM:589291,Tamiasciurus hudsonicus abieticola, red squirrel,Squirrel,S. Jones,July,7/23/72,SMJ 22,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,1
-USNM:MAMM:589290,Tamiasciurus hudsonicus abieticola, red squirrel,Squirrel,S. Jones,July,7/25/72,SMJ 28,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,7
-USNM:MAMM:589415,Microtus pennsylvanicus pennsylvanicus,meadow vole,Vole,S. Jones,July,7/31/72,SMJ 27,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.56618,3
-USNM:MAMM:589413,Myodes gapperi gapperi,red-backed vole,Vole,S. Jones,July,7/27/72,SMJ 26,United States,Virginia,Giles County,Mountain Lake Biological Station, Big Mountain Forest North,37.375332,-80.523187,3
-USNM:MAMM:589403,Myodes gapperi gapperi,red-backed vole,Vole,S. Jones,August,8/8/72,SMJ 31,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.32668,-80.530659,1
-USNM:MAMM:589404,Myodes gapperi gapperi,red-backed vole,Vole,S. Jones,August,8/8/72,SMJ 32,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.32668,-80.530659,2
-USNM:MAMM:589405,Myodes gapperi gapperi,red-backed vole,Vole,S. Jones,August,8/9/72,SMJ 33,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.32668,-80.530659,3
-USNM:MAMM:589406,Myodes gapperi gapperi,red-backed vole,Vole,S. Jones,,,SMJ 34,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.32668,-80.530659,5
+USNM:MAMM:589214,Blarina brevicauda talpoides,Northern short-tailed shrew,Shrew,S. Jones,August,8/15/72,SMJ 38,United States,Virginia,Giles County,Mountain Lake Biological Station, Butt Mountain,37.372124,-80.563569,1
+USNM:MAMM:589223,Sorex cinereus cinereus,Masked shrew,Shrew,S. Jones,July,7/26/72,SMJ 25,United States,Virginia,Giles County,Mountain Lake Biological Station, Big Mountain Forest North,37.375332,-80.523187,2
+USNM:MAMM:589250,Spilogale putorius putorius,Eastern spotted skunk,Spotted skunk,S. Jones,August,8/16/72,SMJ 39,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.32668,-80.530659,4
+USNM:MAMM:589264,Glaucomys volans volans,Southern flying squirrel,Squirrel,S. Jones,July,7/24/72,SMJ 23,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,3
+USNM:MAMM:589291,Tamiasciurus hudsonicus abieticola,American red squirrel,Squirrel,S. Jones,July,7/23/72,SMJ 22,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,1
+USNM:MAMM:589290,Tamiasciurus hudsonicus abieticola,American red squirrel,Squirrel,S. Jones,July,7/25/72,SMJ 28,United States,Virginia,Giles County,Mountain Lake Hotel,Virgina Cabin,37.355529,-80.536251,7
+USNM:MAMM:589415,Microtus pennsylvanicus pennsylvanicus,Meadow vole,Vole,S. Jones,July,7/31/72,SMJ 27,United States,Virginia,Giles County,Mountain Lake Post Office, Mud Branch,37.418126,-80.56618,3
+USNM:MAMM:589413,Myodes gapperi gapperi,Southern red-backed vole,Vole,S. Jones,July,7/27/72,SMJ 26,United States,Virginia,Giles County,Mountain Lake Biological Station, Big Mountain Forest North,37.375332,-80.523187,3
+USNM:MAMM:589403,Myodes gapperi gapperi,Southern red-backed vole,Vole,S. Jones,August,8/8/72,SMJ 31,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.32668,-80.530659,1
+USNM:MAMM:589404,Myodes gapperi gapperi,Southern red-backed vole,Vole,S. Jones,August,8/8/72,SMJ 32,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.32668,-80.530659,2
+USNM:MAMM:589405,Myodes gapperi gapperi,Southern red-backed vole,Vole,S. Jones,August,8/9/72,SMJ 33,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.32668,-80.530659,3
+USNM:MAMM:589406,Myodes gapperi gapperi,Southern red-backed vole,Vole,S. Jones,,,SMJ 34,United States,Virginia,Giles County,Mountain Lake Post Office, Route 700 Talus Upper,37.32668,-80.530659,5
