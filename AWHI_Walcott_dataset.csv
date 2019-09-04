@@ -1,4 +1,4 @@
-﻿Barcode,Catalog Number,Order,Family,family_name,Collector(s),year_collected,Country,Province/State,EZID
+﻿barcode,catalog_no,order,family,family_name,collector_name,year_collected,country,province_state,ezid
 1355660,208828,Myrtales,Onagraceae,Evening primroses,"Walcott, M. V.",1900,Mexico,Colima,http://n2t.net/ark:/65665/38d98265a-6fb0-4c82-8f8c-26182c87d016
 1160457,99194,Solanales,Hydrophyllaceae,Waterleaf family,"Walcott, C. D.",1900,United States,Colorado,http://n2t.net/ark:/65665/30a751787-3a18-4f16-87e4-5a8897e19819
 3089925,80416,Apiales,Apiaceae,Umbellifers ,"Walcott, C. D.",1900,United States,New Mexico,http://n2t.net/ark:/65665/3d8b58966-9a8b-4b3b-9ec4-7174f29be951
