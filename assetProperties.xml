@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEAMS_ASSET_FILE PUBLIC "-//TEAMS//DTD asset and link file//EN" "Tasset.dtd" [
+
+<!ENTITY asset0000001 SYSTEM "2006-3058-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000002 SYSTEM "2006-3058_scn-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000003 SYSTEM "82-3136-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000004 SYSTEM "85-11419-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000005 SYSTEM "89-6346-S[1].jpg" NDATA image_jpeg>
+<!ENTITY asset0000006 SYSTEM "89-6346-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000007 SYSTEM "SA-103-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000008 SYSTEM "SA-103-S[2].jpg" NDATA image_jpeg>
+<!ENTITY asset0000009 SYSTEM "SA-103-S[1].jpg" NDATA image_jpeg>
+<!ENTITY asset0000010 SYSTEM "SA-107-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000011 SYSTEM "SA-1282-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000012 SYSTEM "SA-1283-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000013 SYSTEM "SA-1285-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000014 SYSTEM "SA-151-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000015 SYSTEM "SA-73-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000016 SYSTEM "SA-78-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000017 SYSTEM "SIA2009-3865-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000018 SYSTEM "SIA2014-00556-S.jpg" NDATA image_jpeg>
+<!ENTITY asset0000019 SYSTEM "SIA2014-03834-S.jpg" NDATA image_jpeg>
+]>
+
+<TEAMS_ASSET_FILE>
+  <!--Artesia Export - name="null" id="" createDate="" updateDate="" description="Creating Export Job" notes="Creating Export Job" startTime="Wed Jul 31 12:23:21 EDT 2019" userId=""-->
+  <ASSETS>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="6ef996d4c63554ef0f4e44e8f7d2f179c75fd3f0" IMPORT_DT="2012-11-14 15:40:29.0" METADATA_STATE_DT="2018-06-01 13:07:00.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="2006-3058.tif" BITMAP_WIDTH="3000" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="926" METADATA_STATE_USER_ID="1671" BITMAP_HEIGHT="2356" MODEL_ID="20002">
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="b940842f4be4f967e3972fecc6332cf4" />
+          <IPTC_APP_RECORDS CREDIT="Smithsonian Institution Archives" COLOR_SPACE="Adobe RGB (1998)" CONTACT_CITY="Washington" CONTACT_STATE="D.C." PHOTOGRAPHER_TITLE="photographer" CONTACT_WEB_URL="http://siarchives.si.edu" PROCESSING_SOFTWARE="Adobe Photoshop CS Macintosh" CREATE_DATE="2006:03:07 11:34:43-05:00" CONTACT_COUNTRY="USA" CONTACT_EMAIL="osiaref@si.edu&#xA;photos@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="2006-3058 or SA-88" COPYRIGHT="This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws." HEADLINE="Mary Vaux Walcott" CAPTION="&quot;Record Unit 95, Box 69, Folder SA-88&quot;; &quot;Mary Vaux Walcott (1860-1940), third wife of Charles Doolittle Walcott (1850-1927), fourth Secretary of the Smithsonian Institution from 1907 to 1927. &quot;" />
+          <SI_ASSET_METADATA CREDIT="Smithsonian Institution Archives" SI_DEL_RESTS="Yes^No" RIGHTS_SUMMARY_CORE="No Known Copyright or Other Restrictions" BITS_PER_SAMPLE="8 8 8" PROCESSING_SOFTWARE="Adobe Photoshop CS Macintosh" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-2006-3058" HOLDING_UNIT="SIA" IMAGE_ORIENTATION="1" ACQUIRED_FROM="Smithsonian Institution Archives" ITEM_CREATION_DATE="2006-03-07 00:00:00.0" HOT_FOLDER_IMPORT_ID="1671" GROUP_TITLE="Historic Images of the Smithsonian " />
+          <FILE_SIZE_VIEW CONTENT_SIZE="20.27           " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000001" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="808b62c24bf8459bf712c6b6a2d4b9777088721a" IMPORT_DT="2017-02-21 10:18:52.0" METADATA_STATE_DT="2017-02-21 10:43:57.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="2006-3058_scn.tif" BITMAP_WIDTH="3100" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="1" METADATA_STATE_USER_ID="1671" BITMAP_HEIGHT="2616" MODEL_ID="20002">
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="8d9df1794020f76a452d07704e6bf62b" />
+          <SI_AV_ASSET_METADATA MODIFICATION="No modification without prior approval" />
+          <IPTC_APP_RECORDS CREDIT="Smithsonian Institution Archives" SPECIAL_INSTRUCTIONS="For copies or reproduction info call 202-633-1933." OTR="SPS Digital Logbook" COLOR_SPACE="Adobe RGB (1998)" CONTACT_CITY="Washington, DC" CONTACT_ADDRESS="Smithsonian Institution Archives&#xA;MRC 507&#xA;PO Box 37012" COUNTRY_NAME="USA" CONTACT_POSTAL="20013-7012" PHOTOGRAPHER_TITLE="photographer" SUB_LOCATION="Smithsonian Institution" TERMS_AND_RESTRICTIONS="Permission for reproduction of this image can be obtained by contacting the Smithsonian Institution at photos@si.edu or calling 202-633-1933." CONTACT_WEB_URL="siarchives.si.edu" CONTACT_PHONE="202-633-1933" PROCESSING_SOFTWARE="Adobe Photoshop CS Macintosh" IPTC_PHOTOGRAPHER="unknown" CREATE_DATE="2006:03:07 11:35:35-05:00" CONTACT_COUNTRY="USA" CITY="Washington, DC" CONTACT_EMAIL="photos@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="2006-3058.tif" COPYRIGHT="This image was obtained from the Smithsonian Institution - Washington, DC - USA.  The image or its contents may be protected by international copyright laws." CAPTION="Mary Vaux Walcott (1860-1940), third wife of Charles Doolittle Walcott (1850-1927), fourth Secretary of the Smithsonian Institution from 1907 to 1927. Mrs. Walcott was a noted wild flower artist, photographer, and amateur geologist and accompanied her husband on his trips to British Columbia. She is pictured seated in a field camp and on the ground are rolled up bedrolls, two carrying cases and other camp equipment. Patches of snow can be seen.&#xA;&#xA;Record Unit 95, Box 69, Folder: SA-88." KEYWORDS="SIA Collections" />
+          <SI_ASSET_METADATA CREDIT="Smithsonian Institution Archives" SI_DEL_RESTS="No^Null" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" TERMS_AND_RESTRICTIONS="Permission for reproduction of this image can be obtained by contacting the Smithsonian Institution at photos@si.edu or calling 202-633-1933." COLLECTION_TITLE="11-009" PROCESSING_SOFTWARE="Adobe Photoshop CS Macintosh" ADMIN_CONTENT_TYPE="SD 600" ADMIN_CLASS="None" OWNING_UNIT_UNIQUE_NAME="SIA-2006-3058_scn" EMBARGO="No" HOLDING_UNIT="SIA" PRIMARY_CREATOR="unknown" IMAGE_ORIENTATION="Horizontal (normal)" ACQUIRED_FROM="Smithsonian Institution Archives" MAX_IDS_SIZE="0" ITEM_CREATION_DATE="2006-03-07 00:00:00.0" HOT_FOLDER_IMPORT_ID="1671" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="23.24           " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000002" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="629f83c19f1b2678c891ab34c69de062ca6cbeb2" IMPORT_DT="2012-10-09 17:46:27.0" METADATA_STATE_DT="2018-06-01 13:07:00.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="82-3136.tif" BITMAP_WIDTH="2403" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="926" METADATA_STATE_USER_ID="1671" BITMAP_HEIGHT="3015" MODEL_ID="20002">
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="523e0f1c46f08b47b044487098f82548" />
+          <IPTC_APP_RECORDS CREDIT="Smithsonian Institution Archives" COLOR_SPACE="3" CONTACT_CITY="Washington" CONTACT_STATE="D.C." PHOTOGRAPHER_TITLE="photographer" CONTACT_WEB_URL="http://siarchives.si.edu" IPTC_PHOTOGRAPHER="unknown" CREATE_DATE="2011:06:29 11:15:59-05:00" CONTACT_COUNTRY="USA" CONTACT_EMAIL="osiaref@si.edu&#xA;photos@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="82-3136" COPYRIGHT="This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws." HEADLINE="Mary Vaux Walcott" CAPTION="&quot;Record Unit 95, Box 24, Folder 1&quot;; &quot;Mary Vaux Walcott (1860-1940), third wife of Charles Doolittle Walcott (1850-1927), fourth Secretary (1907-1927) of the Smithsonian Institution. Mrs. Walcott was a noted wildflower artist and photographer.&quot;" />
+          <SI_ASSET_METADATA CREDIT="Smithsonian Institution Archives" SI_DEL_RESTS="Yes^No" RIGHTS_SUMMARY_CORE="No Known Copyright or Other Restrictions" BITS_PER_SAMPLE="8 8 8" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-82-3136" HOLDING_UNIT="SIA" PRIMARY_CREATOR="unknown" IMAGE_ORIENTATION="1" ACQUIRED_FROM="Smithsonian Institution Archives" ITEM_CREATION_DATE="2011-06-29 00:00:00.0" HOT_FOLDER_IMPORT_ID="1671" GROUP_TITLE="Historic Images of the Smithsonian " />
+          <FILE_SIZE_VIEW CONTENT_SIZE="20.74           " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000003" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="0fa325875cffa16aee6ab8e4faf987bf14fefef1" IMPORT_DT="2012-10-09 17:35:18.0" METADATA_STATE_DT="2018-06-01 13:07:00.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="85-11419.tif" BITMAP_WIDTH="2301" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="926" METADATA_STATE_USER_ID="1671" BITMAP_HEIGHT="2300" MODEL_ID="20002">
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="e88b4a170ae58e29e92ca01477d8b8c3" />
+          <IPTC_APP_RECORDS CREDIT="Smithsonian Institution Archives" COLOR_SPACE="3" CONTACT_CITY="Washington" CONTACT_STATE="D.C." PHOTOGRAPHER_TITLE="photographer" CONTACT_WEB_URL="http://siarchives.si.edu" IPTC_PHOTOGRAPHER="unknown" CREATE_DATE="2011:06:29 11:28:22-05:00" CONTACT_COUNTRY="USA" CONTACT_EMAIL="osiaref@si.edu&#xA;photos@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="85-11419" COPYRIGHT="This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws." HEADLINE="Mary Vaux Walcott" CAPTION="&quot;Record Unit 7004, Box 44, Folder 7&quot;; &quot;Mary Vaux Walcott (1860-1940), wildflower artist and third wife of Charles D. Walcott (1850-1927), the fourth Secretary of the Smithsonian from 1907 to1927, at Great Falls, on April 30, 1914.&quot;" />
+          <SI_ASSET_METADATA CREDIT="Smithsonian Institution Archives" SI_DEL_RESTS="Yes^No" RIGHTS_SUMMARY_CORE="No Known Copyright or Other Restrictions" BITS_PER_SAMPLE="8 8 8" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-85-11419" HOLDING_UNIT="SIA" PRIMARY_CREATOR="unknown" IMAGE_ORIENTATION="1" ACQUIRED_FROM="Smithsonian Institution Archives" ITEM_CREATION_DATE="2011-06-29 00:00:00.0" HOT_FOLDER_IMPORT_ID="1671" GROUP_TITLE="Historic Images of the Smithsonian " />
+          <FILE_SIZE_VIEW CONTENT_SIZE="15.16           " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000004" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="08baa93dc1444dbb43d0454fd3392c1fe42decf3" IMPORT_DT="2013-07-15 16:29:05.0" METADATA_STATE_DT="2017-10-20 12:27:57.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="89-6346.tif" BITMAP_WIDTH="6603" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="926" METADATA_STATE_USER_ID="1671" BITMAP_HEIGHT="5294" MODEL_ID="20002">
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="f4d7f5259b2c85dee3962360e8242fac" />
+          <ASSET_LINKS_VIEW LINK_NAME="PARENT" />
+          <IPTC_APP_RECORDS CREDIT="Smithsonian Institution Archives" SPECIAL_INSTRUCTIONS="For copies or reproduction info call 202-633-1933." COLOR_SPACE="Adobe RGB (1998)" CONTACT_CITY="Washington, DC" CONTACT_ADDRESS="Smithsonian Institution Archives&#xA;MRC 507&#xA;PO Box 37012" COUNTRY_NAME="USA" CONTACT_POSTAL="20013-7012" PHOTOGRAPHER_TITLE="photographer" SUB_LOCATION="Smithsonian Institution" CONTACT_WEB_URL="siarchives.si.edu" CONTACT_PHONE="202-633-1933" PROCESSING_SOFTWARE="Adobe Photoshop CS4 Macintosh" IPTC_PHOTOGRAPHER="unknown" CREATE_DATE="2009:08:12" CONTACT_COUNTRY="USA" CITY="Washington, DC" CONTACT_EMAIL="photos@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="89-6346" COPYRIGHT="This image was obtained from the Smithsonian Institution - Washington, DC - USA.  The image or its contents may be protected by international copyright laws." CAPTION="Mary Vaux Walcott, wife of Secretary Charles Doolittle Walcott stands in front of a tent while on a field trip.&#xA;&#xA;Also see Record Unit 95, Box Box 24, Folder 2C.&#xA;Also see SA-89.&#xA;From 4&quot; x 5&quot; black and white negative." />
+          <SI_ASSET_METADATA CREDIT="Smithsonian Institution Archives" SI_DEL_RESTS="No^Null" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="16 16 16" ACQUISITION_NOTES="From 4&quot; x 5&quot; black and white negative." IMAGE_ORIGINATION_FORMAT="Acetate film " TERMS_AND_RESTRICTIONS="Permission for reproduction of this image can be obtained by contacting the Smithsonian Institution at photos@si.edu or calling 202-633-1933." COLLECTION_TITLE="11-009" PROCESSING_SOFTWARE="Adobe Photoshop CS3 Macintosh" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-89-6346-000003" HOLDING_UNIT="SIA" PRIMARY_CREATOR="unknown" IMAGE_ORIENTATION="1" ACQUIRED_FROM="Smithsonian Institution Archives" ITEM_CREATION_DATE="2009-08-12 00:00:00.0" HOT_FOLDER_IMPORT_ID="1671" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="200.08          " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000005" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="b540130d9082f4cab3c9c9e8d958594503bdc6d9" IMPORT_DT="2013-07-15 16:29:05.0" METADATA_STATE_DT="2017-10-20 12:27:57.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="89-6346.tif" BITMAP_WIDTH="6000" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="926" METADATA_STATE_USER_ID="1671" BITMAP_HEIGHT="4748" MODEL_ID="20002">
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="7bd560598037e1fac16c9ccda1a855b7" />
+          <ASSET_LINKS_VIEW LINK_NAME="CHILD" />
+          <IPTC_APP_RECORDS CREDIT="Smithsonian Institution Archives" SPECIAL_INSTRUCTIONS="For copies or reproduction info call 202-633-1933." COLOR_SPACE="Adobe RGB (1998)" CONTACT_CITY="Washington, DC" CONTACT_ADDRESS="Smithsonian Institution Archives&#xA;MRC 507&#xA;PO Box 37012" COUNTRY_NAME="USA" CONTACT_POSTAL="20013-7012" PHOTOGRAPHER_TITLE="photographer" SUB_LOCATION="Smithsonian Institution" CONTACT_WEB_URL="siarchives.si.edu" CONTACT_PHONE="202-633-1933" PROCESSING_SOFTWARE="Adobe Photoshop CS3 Macintosh" IPTC_PHOTOGRAPHER="unknown" CREATE_DATE="2009:08:12" CONTACT_COUNTRY="USA" CITY="Washington, DC" CONTACT_EMAIL="photos@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="89-6346" COPYRIGHT="This image was obtained from the Smithsonian Institution - Washington, DC - USA.  The image or its contents may be protected by international copyright laws." CAPTION="Mary Vaux Walcott, wife of Secretary Charles Doolittle Walcott stands in front of a tent while on a field trip.&#xA;&#xA;Also see Record Unit 95, Box Box 24, Folder 2C.&#xA;Also see SA-89.&#xA;From 4&quot; x 5&quot; black and white negative." />
+          <SI_ASSET_METADATA CREDIT="Smithsonian Institution Archives" SI_DEL_RESTS="No^Null" SERIES_TITLE="CMS2 " RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" ACQUISITION_NOTES="From 4&quot; x 5&quot; black and white negative." IMAGE_ORIGINATION_FORMAT="Acetate film " TERMS_AND_RESTRICTIONS="Permission for reproduction of this image can be obtained by contacting the Smithsonian Institution at photos@si.edu or calling 202-633-1933." COLLECTION_TITLE="11-009" PROCESSING_SOFTWARE="Adobe Photoshop CS3 Macintosh" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-89-6346-000002" HOLDING_UNIT="SIA" PRIMARY_CREATOR="unknown" IMAGE_ORIENTATION="1" ACQUIRED_FROM="Smithsonian Institution Archives" ITEM_CREATION_DATE="2009-08-12 00:00:00.0" HOT_FOLDER_IMPORT_ID="1671" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="81.57           " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000006" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="878c56a6811c34aee2f49a56b036430f2b6e3ea8" IMPORT_DT="2013-06-04 18:45:47.0" METADATA_STATE_DT="2017-10-20 12:27:57.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="SA-103.tif" BITMAP_WIDTH="6300" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="926" METADATA_STATE_USER_ID="1671" BITMAP_HEIGHT="5024" MODEL_ID="20002">
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="e3805f78f1f53f723c4ce9deea295708" />
+          <ASSET_LINKS_VIEW LINK_NAME="PARENT" />
+          <IPTC_APP_RECORDS CREDIT="Smithsonian Institution Archives" SPECIAL_INSTRUCTIONS="For copies or reproduction info call 202-633-1933." COLOR_SPACE="Adobe RGB (1998)" CONTACT_CITY="Washington, DC" CONTACT_ADDRESS="Smithsonian Institution Archives&#xA;MRC 507&#xA;PO Box 37012" COUNTRY_NAME="USA" CONTACT_POSTAL="20013-7012" PHOTOGRAPHER_TITLE="photographer" SUB_LOCATION="Smithsonian Institution" CONTACT_WEB_URL="siarchives.si.edu" CONTACT_PHONE="202-633-1933" PROCESSING_SOFTWARE="Adobe Photoshop CS4 Macintosh" IPTC_PHOTOGRAPHER="unknown" CONTACT_COUNTRY="USA" CITY="Washington, DC" CONTACT_EMAIL="photos@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="SA-103" COPYRIGHT="This image was obtained from the Smithsonian Institution - Washington, DC - USA.  The image or its contents may be protected by international copyright laws." CAPTION="Mary Vaux Walcott with camera.&#xA;&#xA;From 4&quot; x 5&quot; black and white negative." />
+          <SI_ASSET_METADATA CREDIT="Smithsonian Institution Archives" SI_DEL_RESTS="No^Null" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" ACQUISITION_NOTES="From 4&quot; x 5&quot; black and white negative." IMAGE_ORIGINATION_FORMAT="Acetate film " TERMS_AND_RESTRICTIONS="Permission for reproduction of this image can be obtained by contacting the Smithsonian Institution at photos@si.edu or calling 202-633-1933." PROCESSING_SOFTWARE="Adobe Photoshop CS4 Macintosh" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-SA-103-000001" HOLDING_UNIT="SIA" PRIMARY_CREATOR="unknown" IMAGE_ORIENTATION="1" ACQUIRED_FROM="Smithsonian Institution Archives" HOT_FOLDER_IMPORT_ID="1671" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="90.58           " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000007" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="c420f40ae4c91cd4f90f7c93ead54552f7bab9e7" IMPORT_DT="2013-06-04 18:45:47.0" METADATA_STATE_DT="2017-10-20 12:27:57.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="SA-103.tif" BITMAP_WIDTH="6000" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="926" METADATA_STATE_USER_ID="1671" BITMAP_HEIGHT="4755" MODEL_ID="20002">
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="da43e5ce63288721b86655508c8d439c" />
+          <ASSET_LINKS_VIEW LINK_NAME="CHILD" />
+          <IPTC_APP_RECORDS CREDIT="Smithsonian Institution Archives" SPECIAL_INSTRUCTIONS="For copies or reproduction info call 202-633-1933." COLOR_SPACE="Adobe RGB (1998)" CONTACT_CITY="Washington, DC" CONTACT_ADDRESS="Smithsonian Institution Archives&#xA;MRC 507&#xA;PO Box 37012" COUNTRY_NAME="USA" CONTACT_POSTAL="20013-7012" PHOTOGRAPHER_TITLE="photographer" SUB_LOCATION="Smithsonian Institution" CONTACT_WEB_URL="siarchives.si.edu" CONTACT_PHONE="202-633-1933" PROCESSING_SOFTWARE="Adobe Photoshop CS4 Macintosh" IPTC_PHOTOGRAPHER="unknown" CONTACT_COUNTRY="USA" CITY="Washington, DC" CONTACT_EMAIL="photos@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="SA-103" COPYRIGHT="This image was obtained from the Smithsonian Institution - Washington, DC - USA.  The image or its contents may be protected by international copyright laws." CAPTION="Mary Vaux Walcott with camera.&#xA;&#xA;From 4&quot; x 5&quot; black and white negative." />
+          <SI_ASSET_METADATA CREDIT="Smithsonian Institution Archives" SI_DEL_RESTS="No^Null" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" ACQUISITION_NOTES="From 4&quot; x 5&quot; black and white negative." IMAGE_ORIGINATION_FORMAT="Acetate film " TERMS_AND_RESTRICTIONS="Permission for reproduction of this image can be obtained by contacting the Smithsonian Institution at photos@si.edu or calling 202-633-1933." PROCESSING_SOFTWARE="Adobe Photoshop CS4 Macintosh" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-SA-103" HOLDING_UNIT="SIA" PRIMARY_CREATOR="unknown" IMAGE_ORIENTATION="1" ACQUIRED_FROM="Smithsonian Institution Archives" HOT_FOLDER_IMPORT_ID="1671" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="81.66           " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000008" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="e3168d5e9759a28d483fa8080c0611cdfe07e832" IMPORT_DT="2017-08-25 16:31:40.0" METADATA_STATE_DT="2017-08-25 16:41:02.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="SA-103.tif" BITMAP_WIDTH="6115" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="1" METADATA_STATE_USER_ID="1" BITMAP_HEIGHT="4961" MODEL_ID="20002">
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Archival Content" />
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Collection Item" />
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="45202e573a44f0d4cc95d48ec295f1c1" />
+          <SI_AV_ASSET_METADATA MODIFICATION="Editing Allowed" />
+          <IPTC_APP_RECORDS COLOR_SPACE="EPSON  Standard RGB - Gamma 1.8" CONTACT_CITY="Washington" CONTACT_STATE="D.C." CONTACT_WEB_URL="http://siarchives.si.edu" PROCESSING_SOFTWARE="Adobe Photoshop Camera Raw 9.1&#xA;   Adobe Photoshop Camera Raw 9.1.1 (Windows)" CREATE_DATE="2015:07:16 02:02:16Z" CONTACT_COUNTRY="USA" CONTACT_EMAIL="osiaref@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="SA-103" COPYRIGHT="This image was obtained from the Smithsonian Institution Archives. The image or its contents may be protected by international copyright laws." HEADLINE="Mary Vaux Walcott in a Field with a Camera" CAPTION="RU 000095, Series 1, Box 27F; Mary Vaux Walcott sitting in a field with a camera and covering her head with a blanket." />
+          <SI_ASSET_METADATA SI_DEL_RESTS="Yes^No" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-SA-103-000002" EMBARGO="No" HOLDING_UNIT="SIA" IMAGE_ORIENTATION="Horizontal (normal)" ACQUIRED_FROM="Smithsonian Institution Archives" MAX_IDS_SIZE="3000" ITEM_CREATION_DATE="2015-07-16 00:00:00.0" HOT_FOLDER_IMPORT_ID="3416" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="86.8            " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000009" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="8af13330578b4cd58145f77f14eb82bb7cded1eb" IMPORT_DT="2017-08-25 16:31:40.0" METADATA_STATE_DT="2017-08-25 16:41:04.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="SA-107.tif" BITMAP_WIDTH="6225" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="1" METADATA_STATE_USER_ID="1" BITMAP_HEIGHT="5000" MODEL_ID="20002">
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Collection Item" />
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Archival Content" />
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="43a22a910a361fba2fd0d827400c35eb" />
+          <SI_AV_ASSET_METADATA MODIFICATION="Editing Allowed" />
+          <IPTC_APP_RECORDS COLOR_SPACE="EPSON  Standard RGB - Gamma 1.8" CONTACT_CITY="Washington" CONTACT_STATE="D.C." CONTACT_WEB_URL="http://siarchives.si.edu" PROCESSING_SOFTWARE="Adobe Photoshop Camera Raw 9.1&#xA;   Adobe Photoshop Camera Raw 9.1.1 (Windows)" CREATE_DATE="2015:07:16 02:02:33Z" CONTACT_COUNTRY="USA" CONTACT_EMAIL="osiaref@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="SA-107" COPYRIGHT="This image was obtained from the Smithsonian Institution Archives. The image or its contents may be protected by international copyright laws." HEADLINE="Mary Vaux Walcott (1860-1940) and Unidentified Man" CAPTION="RU 000095, Series 1, Box 27F" />
+          <SI_ASSET_METADATA SI_DEL_RESTS="Yes^No" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-SA-107" EMBARGO="No" HOLDING_UNIT="SIA" IMAGE_ORIENTATION="Horizontal (normal)" ACQUIRED_FROM="Smithsonian Institution Archives" MAX_IDS_SIZE="3000" ITEM_CREATION_DATE="2015-07-16 00:00:00.0" HOT_FOLDER_IMPORT_ID="3416" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="89.06           " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000010" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="667f5a0a847f2cd7380d9dfe75107aeeac5b741b" IMPORT_DT="2017-08-25 16:31:40.0" METADATA_STATE_DT="2017-08-25 16:41:05.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="SA-1282.tif" BITMAP_WIDTH="4805" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="1" METADATA_STATE_USER_ID="1" BITMAP_HEIGHT="6103" MODEL_ID="20002">
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Archival Content" />
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Collection Item" />
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="47a36122338002fe7e09c99a29cc55e8" />
+          <SI_AV_ASSET_METADATA MODIFICATION="Editing Allowed" />
+          <IPTC_APP_RECORDS COLOR_SPACE="Adobe RGB (1998)" CONTACT_CITY="Washington" CONTACT_STATE="D.C." CONTACT_WEB_URL="http://siarchives.si.edu" PROCESSING_SOFTWARE="Adobe Photoshop CS6 (Windows)" CREATE_DATE="2015:07:16 02:07:38" CONTACT_COUNTRY="USA" CONTACT_EMAIL="osiaref@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="SA-1282" COPYRIGHT="This image was obtained from the Smithsonian Institution Archives. The image or its contents may be protected by international copyright laws." HEADLINE="Mary Vaux Walcott (1860-1940) Reading a Letter" CAPTION="RU 000095, Series 10, Box 73; &quot;Portrait by J.M. Elliot, Germantown, PA&quot;; Mary Vaux Walcott: American; artist; painter; watercolorist; naturalist; wife of Charles Doolittle Walcott, Secretary of the Smithsonian Institution" />
+          <SI_ASSET_METADATA SI_DEL_RESTS="Yes^No" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" PROCESSING_SOFTWARE="Adobe Photoshop CS5 Macintosh" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-SA-1282" EMBARGO="No" HOLDING_UNIT="SIA" IMAGE_ORIENTATION="Horizontal (normal)" ACQUIRED_FROM="Smithsonian Institution Archives" MAX_IDS_SIZE="3000" ITEM_CREATION_DATE="2015-07-16 00:00:00.0" HOT_FOLDER_IMPORT_ID="3416" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="83.92           " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000011" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="61682aac2c5053fa2a3038bf930189ce9018db15" IMPORT_DT="2017-08-25 16:31:40.0" METADATA_STATE_DT="2017-08-25 16:41:06.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="SA-1283.tif" BITMAP_WIDTH="4827" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="1" METADATA_STATE_USER_ID="1" BITMAP_HEIGHT="6137" MODEL_ID="20002">
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Collection Item" />
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Archival Content" />
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="a70960115103c295aee84568231f1856" />
+          <SI_AV_ASSET_METADATA MODIFICATION="Editing Allowed" />
+          <IPTC_APP_RECORDS COLOR_SPACE="Adobe RGB (1998)" CONTACT_CITY="Washington" CONTACT_STATE="D.C." CONTACT_WEB_URL="http://siarchives.si.edu" PROCESSING_SOFTWARE="Adobe Photoshop CS6 (Windows)" CREATE_DATE="2015:07:16 02:07:43" CONTACT_COUNTRY="USA" CONTACT_EMAIL="osiaref@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="SA-1283" COPYRIGHT="This image was obtained from the Smithsonian Institution Archives. The image or its contents may be protected by international copyright laws." HEADLINE="Mary Vaux Walcott (1860-1940)" CAPTION="RU 000095, Series 10, Box 73; Mary Vaux Walcott: American; artist; painter; watercolorist; naturalist; wife of Charles Doolittle Walcott, Secretary of the Smithsonian Institution; c. November, 1927" />
+          <SI_ASSET_METADATA SI_DEL_RESTS="Yes^No" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" PROCESSING_SOFTWARE="Adobe Photoshop CS5 Macintosh" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-SA-1283" EMBARGO="No" HOLDING_UNIT="SIA" IMAGE_ORIENTATION="Horizontal (normal)" ACQUIRED_FROM="Smithsonian Institution Archives" MAX_IDS_SIZE="3000" ITEM_CREATION_DATE="2015-07-16 00:00:00.0" HOT_FOLDER_IMPORT_ID="3416" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="84.78           " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000012" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="02844c01e802d2612862a2800e2a00b97a88cba8" IMPORT_DT="2017-08-25 16:31:40.0" METADATA_STATE_DT="2017-08-25 16:41:07.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="SA-1285.tif" BITMAP_WIDTH="4818" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="1" METADATA_STATE_USER_ID="1" BITMAP_HEIGHT="6141" MODEL_ID="20002">
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Collection Item" />
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Archival Content" />
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="d5e9e9ca25dcfab17b3714595392d90c" />
+          <SI_AV_ASSET_METADATA MODIFICATION="Editing Allowed" />
+          <IPTC_APP_RECORDS COLOR_SPACE="Adobe RGB (1998)" CONTACT_CITY="Washington" CONTACT_STATE="D.C." CONTACT_WEB_URL="http://siarchives.si.edu" PROCESSING_SOFTWARE="Adobe Photoshop CS6 (Windows)" CREATE_DATE="2015:07:16 02:07:46" CONTACT_COUNTRY="USA" CONTACT_EMAIL="osiaref@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="SA-1285" COPYRIGHT="This image was obtained from the Smithsonian Institution Archives. The image or its contents may be protected by international copyright laws." HEADLINE="Mary Vaux Walcott (1860-1940)" CAPTION="RU 000095, Series 10, Box 73; Mary Vaux Walcott: American; artist; painter; watercolorist; naturalist; wife of Charles Doolittle Walcott, Secretary of the Smithsonian Institution" />
+          <SI_ASSET_METADATA SI_DEL_RESTS="Yes^No" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" PROCESSING_SOFTWARE="Adobe Photoshop CS5 Macintosh" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-SA-1285" EMBARGO="No" HOLDING_UNIT="SIA" IMAGE_ORIENTATION="Horizontal (normal)" ACQUIRED_FROM="Smithsonian Institution Archives" MAX_IDS_SIZE="3000" ITEM_CREATION_DATE="2015-07-16 00:00:00.0" HOT_FOLDER_IMPORT_ID="3416" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="84.68           " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000013" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="86eb7deca44f0292ebed14300a3b8c75a8993339" IMPORT_DT="2017-08-25 16:31:40.0" METADATA_STATE_DT="2017-08-25 16:41:08.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="SA-151.tif" BITMAP_WIDTH="4639" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="1" METADATA_STATE_USER_ID="1" BITMAP_HEIGHT="6562" MODEL_ID="20002">
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Archival Content" />
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Collection Item" />
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="c051c8b7cb1bde310af868012ad3fe48" />
+          <SI_AV_ASSET_METADATA MODIFICATION="Editing Allowed" />
+          <IPTC_APP_RECORDS COLOR_SPACE="EPSON  Standard RGB - Gamma 1.8" CONTACT_CITY="Washington" CONTACT_STATE="D.C." CONTACT_WEB_URL="http://siarchives.si.edu" PROCESSING_SOFTWARE="Adobe Photoshop Camera Raw 9.1&#xA;   Adobe Photoshop Camera Raw 9.1.1 (Windows)" CREATE_DATE="2015:07:16 02:07:25Z" CONTACT_COUNTRY="USA" CONTACT_EMAIL="osiaref@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="SA-151" COPYRIGHT="This image was obtained from the Smithsonian Institution Archives. The image or its contents may be protected by international copyright laws." HEADLINE="Mary Vaux Walcott and unidentified man climbing." CAPTION="RU 000095, Series 1, Box 27F" />
+          <SI_ASSET_METADATA SI_DEL_RESTS="Yes^No" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-SA-151" EMBARGO="No" HOLDING_UNIT="SIA" IMAGE_ORIENTATION="Rotate 90 CW" ACQUIRED_FROM="Smithsonian Institution Archives" MAX_IDS_SIZE="3000" ITEM_CREATION_DATE="2015-07-16 00:00:00.0" HOT_FOLDER_IMPORT_ID="3416" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="87.1            " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000014" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="7a94bca5c7e54335afe8570dbb2ea8a5ea36c915" IMPORT_DT="2017-08-25 16:31:40.0" METADATA_STATE_DT="2017-08-25 16:41:11.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="SA-73.tif" BITMAP_WIDTH="6634" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="1" METADATA_STATE_USER_ID="1" BITMAP_HEIGHT="5168" MODEL_ID="20002">
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Collection Item" />
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Archival Content" />
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="d3b5514a8c9b68a308a42c6eca4ed68b" />
+          <SI_AV_ASSET_METADATA MODIFICATION="Editing Allowed" />
+          <IPTC_APP_RECORDS COLOR_SPACE="EPSON  Standard RGB - Gamma 1.8" CONTACT_CITY="Washington" CONTACT_STATE="D.C." CONTACT_WEB_URL="http://siarchives.si.edu" PROCESSING_SOFTWARE="Adobe Photoshop Camera Raw 9.1&#xA;   Adobe Photoshop Camera Raw 9.1.1 (Windows)" CREATE_DATE="2015:07:16 02:08:25Z" CONTACT_COUNTRY="USA" CONTACT_EMAIL="osiaref@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="SA-73" COPYRIGHT="This image was obtained from the Smithsonian Institution Archives. The image or its contents may be protected by international copyright laws." HEADLINE="Mary Vaux Walcott (1860-1940) standing in field" CAPTION="RU 000095, Box 24, Folder 2B" />
+          <SI_ASSET_METADATA SI_DEL_RESTS="Yes^No" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-SA-73" EMBARGO="No" HOLDING_UNIT="SIA" IMAGE_ORIENTATION="Horizontal (normal)" ACQUIRED_FROM="Smithsonian Institution Archives" MAX_IDS_SIZE="3000" ITEM_CREATION_DATE="2015-07-16 00:00:00.0" HOT_FOLDER_IMPORT_ID="3416" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="98.1            " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000015" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="e5ec4359955e4697dcfb4a81c99c60a6b07c1458" IMPORT_DT="2017-08-25 16:31:40.0" METADATA_STATE_DT="2017-08-25 16:41:12.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="SA-78.tif" BITMAP_WIDTH="5192" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="1" METADATA_STATE_USER_ID="1" BITMAP_HEIGHT="6322" MODEL_ID="20002">
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Archival Content" />
+          <SI_CONTENT_TYPE_DTLS CONTENT_TYPE="Collection Item" />
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="d573f7b6a8a8e4ae29de8efade8ad38b" />
+          <SI_AV_ASSET_METADATA MODIFICATION="Editing Allowed" />
+          <IPTC_APP_RECORDS COLOR_SPACE="EPSON  Standard RGB - Gamma 1.8" CONTACT_CITY="Washington" CONTACT_STATE="D.C." CONTACT_WEB_URL="http://siarchives.si.edu" PROCESSING_SOFTWARE="Adobe Photoshop Camera Raw 9.1&#xA;   Adobe Photoshop Camera Raw 9.1.1 (Windows)" CREATE_DATE="2015:07:16 02:03:59Z" CONTACT_COUNTRY="USA" CONTACT_EMAIL="osiaref@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="SA-78" COPYRIGHT="This image was obtained from the Smithsonian Institution Archives. The image or its contents may be protected by international copyright laws." HEADLINE="Mary Vaux Walcott (1860-1940) in the field with camera" CAPTION="RU 000095, Series 1, Box 27F" />
+          <SI_ASSET_METADATA SI_DEL_RESTS="Yes^No" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-SA-78" EMBARGO="No" HOLDING_UNIT="SIA" IMAGE_ORIENTATION="Rotate 90 CW" ACQUIRED_FROM="Smithsonian Institution Archives" MAX_IDS_SIZE="3000" ITEM_CREATION_DATE="2015-07-16 00:00:00.0" HOT_FOLDER_IMPORT_ID="3416" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="93.92           " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000016" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="17e97a1afc70a3380e59c6ad95de1264cff97229" IMPORT_DT="2012-02-01 10:42:12.0" METADATA_STATE_DT="2014-10-17 00:00:00.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="SIA2009-3865.tif" BITMAP_WIDTH="6186" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="926" METADATA_STATE_USER_ID="3416" BITMAP_HEIGHT="5299" MODEL_ID="20002">
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="25cb33868b06e171e072661c2c6b70bc" />
+          <SI_AV_ASSET_METADATA MODIFICATION="Editing Allowed" />
+          <IPTC_APP_RECORDS COLOR_SPACE="RGB" CONTACT_CITY="Washington" CONTACT_STATE="D.C." CONTACT_WEB_URL="http://siarchives.si.edu" CREATE_DATE="2011-10-12T14:39:16-05:00" CONTACT_COUNTRY="USA" CONTACT_EMAIL="osiaref@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="SIA2009-3865" COPYRIGHT="This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws." HEADLINE="Mary Vaux Walcott and Baby &quot;Nancy&quot;" CAPTION="Acc 007004, Box 44, Folder 7; Mary Vaux Walcott and horses &quot;Mrs. Charles W.&quot;" />
+          <ARTESIA_EXIF ORIENTATION="1" />
+          <SI_ASSET_METADATA SI_DEL_RESTS="No^Null" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-SIA2009-3865" HOLDING_UNIT="SIA" IMAGE_ORIENTATION="Horizontal (normal)" ACQUIRED_FROM="Smithsonian Institution Archives" ITEM_CREATION_DATE="2011-10-12 00:00:00.0" HOT_FOLDER_IMPORT_ID="3416" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="93.79           " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000017" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="6211ade4699c93ed39f983818ba79b9a1db7eeaf" IMPORT_DT="2014-06-18 12:42:32.0" METADATA_STATE_DT="2014-10-17 00:00:00.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="SIA2014-00556.tif" BITMAP_WIDTH="6369" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="1" METADATA_STATE_USER_ID="1" BITMAP_HEIGHT="5169" MODEL_ID="20002">
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="b6236c9aff078b2bb29daaa8629bd1d7" />
+          <SI_AV_ASSET_METADATA MODIFICATION="Editing Allowed" />
+          <IPTC_APP_RECORDS COLOR_SPACE="EPSON  Standard RGB - Gamma 1.8" CONTACT_CITY="Washington" CONTACT_STATE="D.C." CONTACT_WEB_URL="http://siarchives.si.edu" CONTACT_COUNTRY="USA" CONTACT_EMAIL="osiaref@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="SIA2014-00556" COPYRIGHT="This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws." HEADLINE="Charles D. Walcott and Mary Vaux Walcott under a tree" CAPTION="RU 007004, Box 44, Folder 10; Image of Charles D. Walcott seated/leaning against a tree with a newspaper looking up at Mary Vaux Walcott." />
+          <SI_ASSET_METADATA SI_DEL_RESTS="Yes^No" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-SIA2014-00556" HOLDING_UNIT="SIA" IMAGE_ORIENTATION="Horizontal (normal)" ACQUIRED_FROM="Smithsonian Institution Archives" HOT_FOLDER_IMPORT_ID="3416" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="94.2            " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000018" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+    <ASSET>
+      <METADATA>
+        <UOIS UOI_ID="23c34f18a207b0c722fe27ae5d0aeb027d04306e" IMPORT_DT="2015-06-02 22:07:01.0" METADATA_STATE_DT="2015-06-02 23:09:58.0" MASTER_OBJ_MIME_TYPE="image/tiff" NAME="SIA2014-03834.tif" BITMAP_WIDTH="6475" BITMAP_COLOR_DEPTH="3" CONTENT_TYPE="BITMAP" VERSION="1" IMPORT_USER_ID="1" METADATA_STATE_USER_ID="1" BITMAP_HEIGHT="4846" MODEL_ID="20002">
+          <CHECKSUM_VIEW CONTENT_CHECKSUM="7786456c99fa345107ff690f56aa7c40" />
+          <SI_AV_ASSET_METADATA MODIFICATION="Editing Allowed" />
+          <IPTC_APP_RECORDS COLOR_SPACE="EPSON  Standard RGB - Gamma 1.8" CONTACT_CITY="Washington" CONTACT_STATE="D.C." CONTACT_WEB_URL="http://siarchives.si.edu" PROCESSING_SOFTWARE="Adobe Photoshop Camera Raw 7.0&#xA;   Adobe Photoshop Camera Raw 7.0 (Windows)" CREATE_DATE="2014:05:15 14:19:27-05:00" CONTACT_COUNTRY="USA" CONTACT_EMAIL="osiaref@si.edu" SOURCE="Smithsonian Institution Archives" OBJECT_NAME="SIA2014-03834" COPYRIGHT="This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws." HEADLINE="Mr. and Mrs. Charles Walcott, Yoho Canyon, July 1924" CAPTION="RU 000095, Box 24, Folder 3A; Photograph of Charles Walcott and Mary Vaux Walcott riding horseback in Yoho Canyon." />
+          <SI_ASSET_METADATA SI_DEL_RESTS="Yes^No" RIGHTS_SUMMARY_CORE="Not Researched" BITS_PER_SAMPLE="8 8 8" ADMIN_CLASS="SD600_S" OWNING_UNIT_UNIQUE_NAME="SIA-SIA2014-03834" HOLDING_UNIT="SIA" IMAGE_ORIENTATION="Horizontal (normal)" ACQUIRED_FROM="Smithsonian Institution Archives" MAX_IDS_SIZE="3000" HOT_FOLDER_IMPORT_ID="3416" />
+          <FILE_SIZE_VIEW CONTENT_SIZE="89.78           " />
+        </UOIS>
+      </METADATA>
+      <CONTENT>
+        <MASTER>
+          <OBJECT FILE="asset0000019" PREVIEW="Y" TYPE="PREVIEW" />
+        </MASTER>
+      </CONTENT>
+    </ASSET>
+  </ASSETS>
+  <LINKS />
+  <HIERARCHY />
+</TEAMS_ASSET_FILE>
+
